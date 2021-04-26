@@ -1,5 +1,5 @@
 # AS1_P2
-Examen Parcia II
+Examen Parcial II
 
 # Datos
 <li>Universidad Mariano Galvez de Guatemala</li>
